@@ -43,15 +43,7 @@
 > *Tech:* Python · TensorFlow · MongoDB · FastAPI
   
 </td>
-<td align="center" width="50%">
-  
-#### 🏙️ [Smart City Dashboard](https://github.com/mekaushikranjan/SmartCity-Dashboard)
-> Real-time analytics for traffic, pollution, and energy metrics.  
-> *Tech:* React · Node.js · Express · Chart.js · MongoDB
-  
-</td>
-</tr>
-<tr>
+
 <td align="center" width="50%">
   
 #### 💬 [AI Chatbot](https://github.com/mekaushikranjan/AI-Chatbot)
@@ -106,7 +98,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mekaushikranjan/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
   <a href="https://x.com/Kaushik_Ranjan_"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+  <a href="mailto:your.mritunjaykaushik1803@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
   <a href="https://github.com/mekaushikranjan"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
 </p>
 
