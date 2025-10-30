@@ -1,48 +1,119 @@
-# 👋 Hi, I’m **Kaushik Ranjan**
+<!-- Profile Header -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Kaushik Ranjan</span> </h1>
+<h3 align="center">💻 MCA Student | Software Developer | Tech Explorer</h3>
 
-🎓 MCA Student at Lovely Professional University  
-💻 Software Developer | Tech Innovator  
-🌱 Exploring **AI · MERN Stack · Cloud Computing**  
-⚡ Fun fact: I love building projects that solve real-world problems!
-
----
-
-### 🛠 Languages & Tools  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=#61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&lines=Software+Developer;MERN+Stack+Enthusiast;AI+and+Machine+Learning+Explorer;Always+Learning+New+Tech!+🚀" />
+</p>
 
 ---
 
-### 📊 My GitHub Stats  
-![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=mekaushikranjan&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mekaushikranjan&layout=compact&theme=dark)  
+### 🧭 About Me  
+
+🎓 Pursuing **MCA at Lovely Professional University**  
+🎯 Completed **BCA from Bihar University (2025)**  
+💡 Passionate about **Innovation, AI, and Full-Stack Development**  
+🌱 Currently learning **FastAPI, Cloud Integration & Advanced MERN Concepts**  
+⚡ *Curious mind who loves transforming ideas into real projects.*
 
 ---
 
-### 🧠 Projects  
-Here are some of my featured works:  
-- 🚀 [AI-Based Fraud Detection System](https://github.com/mekaushikranjan/FraudDetection-AI) — A MERN + ML pipeline for detecting anomalous transactions.  
-- 🏙️ [Smart City Dashboard](https://github.com/mekaushikranjan/SmartCity-Dashboard) — Real-time data viz + AI predictions for traffic, pollution & energy usage.  
-- 💬 [AI Chatbot with Backend](https://github.com/mekaushikranjan/AI-Chatbot) — Built using TensorFlow + FastAPI + MongoDB.  
-- 📱 [HappyHome](https://github.com/mekaushikranjan/HappyHome-frontend) — Frontend (React) of a modern home-services platform.  
-- 🌐 [ConnectLocal](https://github.com/mekaushikranjan/ConnectLocal) — Social-media styled iOS & Android app (React Native + Expo) + Google/Twitter login.  
+### 🛠️ Tech Stack
 
-> *Pinned repos on my profile are a subset; feel free to explore more in my Repositories tab.*
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mongodb,html,css,bootstrap,git,github,tensorflow,fastapi" />
+</p>
 
----
-
-### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mekaushikranjan/)  
-[![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Kaushik_Ranjan_)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)  
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Windows%2011-%230078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code%20Editor-VS%20Code-blue?style=flat-square&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Version%20Control-Git-orange?style=flat-square&logo=git" />
+</p>
 
 ---
 
-*Thank you for visiting my GitHub profile — let’s build something amazing together! 🚀*
+### 🚀 Highlight Projects  
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+  
+#### 🧠 [AI-Based Fraud Detection System](https://github.com/mekaushikranjan/FraudDetection-AI)
+> AI + ML model for anomaly detection in financial transactions.  
+> *Tech:* Python · TensorFlow · MongoDB · FastAPI
+  
+</td>
+<td align="center" width="50%">
+  
+#### 🏙️ [Smart City Dashboard](https://github.com/mekaushikranjan/SmartCity-Dashboard)
+> Real-time analytics for traffic, pollution, and energy metrics.  
+> *Tech:* React · Node.js · Express · Chart.js · MongoDB
+  
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+  
+#### 💬 [AI Chatbot](https://github.com/mekaushikranjan/AI-Chatbot)
+> Conversational AI system powered by NLP and backend APIs.  
+> *Tech:* TensorFlow · FastAPI · React
+  
+</td>
+<td align="center" width="50%">
+  
+#### 🏠 [HappyHome](https://github.com/mekaushikranjan/HappyHome-frontend)
+> Modern home services platform with secure authentication & booking.  
+> *Tech:* React · Node.js · MongoDB
+  
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+  
+#### 🌐 [ConnectLocal](https://github.com/mekaushikranjan/ConnectLocal)
+> A social platform app for connecting locally — inspired by WhatsApp & Instagram.  
+> *Tech:* React Native · Expo · Firebase (Google & Twitter Login)
+  
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mekaushikranjan&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mekaushikranjan&theme=tokyonight&hide_border=true" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekaushikranjan&layout=compact&theme=tokyonight&hide_border=true" height="140px"/>
+</p>
+
+---
+
+### 🏆 Achievements & Badges  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mekaushikranjan&theme=onedark&no-bg=true&row=1&column=5" />
+</p>
+
+---
+
+### 🤝 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mekaushikranjan/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  <a href="https://x.com/Kaushik_Ranjan_"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+  <a href="https://github.com/mekaushikranjan"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mekaushikranjan&label=Profile%20views&color=00BFFF&style=flat-square" alt="profile views" />
+</p>
+
+---
+
+<p align="center">✨ *“Keep coding, keep growing — because innovation begins with curiosity.”* ✨</p>
